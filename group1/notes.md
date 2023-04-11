@@ -1,17 +1,17 @@
-# Group 6
+# Group 1
 
 ## Links
 
-- Repo URL: [click here](https://github.com/lisaridner/Team-Project-Repo)
-- Live URL: [click here](https://lisaridner.github.io/Team-Project-Repo/)
+- Repo URL: [click here](https://github.com/gmgabrie/find-and-stream)
+- Live URL: [click here](https://gmgabrie.github.io/find-and-stream/)
 
 ## Members
 
-1.  Samuel DeJesus [Github](https://github.com/sam-dejesus)
-2.  Lisa Ridner [Github](https://github.com/lisaridner)
-3.  Marilys Valentin [Github](https://github.com/missenvii)
-4.  Richard Murillo [Github](https://github.com/richmur84)
-5.  Jai Lawson [Github](https://github.com/lawsjai)
+1.  Gabriel Glenn [Github](https://github.com/gmgabrie)
+2.  Gerard Del Vecchio [Github](https://github.com/gdel-j)
+3.  Adam Brannon [Github](https://github.com/adam-brannon09)
+4.  RJoshua Davey [Github](https://github.com/jhdavey)
+5.  Dave Allen [Github](https://github.com/youngboss)
 
 ## Notes
 
@@ -19,5 +19,5 @@
 [Materialize](https://materializecss.com/)
 
 **APIs:**
-[Polygon.io](https://polygon.io/)
-[Fake Store API](https://fakestoreapi.com/)
+[Streaming Availability](https://rapidapi.com/movie-of-the-night-movie-of-the-night-default/api/streaming-availability/details)
+[The Movie DB](https://www.themoviedb.org/documentation/api)
