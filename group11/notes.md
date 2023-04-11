@@ -3,7 +3,7 @@
 ## Links
 
 - Repo URL: [click here](https://github.com/restas13/Project1-Group-11)
-- Live URL: [click here]()
+- Live URL: [click here](https://restas13.github.io/Project1-Group-11/)
 
 ## Members
 

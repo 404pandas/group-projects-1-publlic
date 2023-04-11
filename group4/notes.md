@@ -3,7 +3,7 @@
 ## Links
 
 - Repo URL: [click here](https://github.com/victorjmora/Group-Project)
-- Live URL: [click here]()
+- Live URL: [click here](https://victorjmora.github.io/Food-4-You/)
 
 ## Members
 
