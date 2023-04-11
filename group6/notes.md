@@ -1,7 +1,5 @@
 # Group 6
 
-> Right click on rubric.html and open in default browser
-
 ## Links
 
 - Repo URL: [click here](https://github.com/lisaridner/Team-Project-Repo)
