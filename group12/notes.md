@@ -2,8 +2,8 @@
 
 ## Links
 
-- Repo URL: [click here](https://github.com/floretdemola/group-project-01)
-- Live URL: [click here](https://floretdemola.github.io/group-project-01/)
+- Repo URL: [click here](https://github.com/floretdemola/brewsome-weather)
+- Live URL: [click here](https://floretdemola.github.io/brewsome-weather/)
 
 ## Members
 
